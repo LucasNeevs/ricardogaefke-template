@@ -9,9 +9,7 @@
 
 RicardoGaefke new project with ASP.NET Core 3.0, SSR React, Azure SQL, integration, TDD and Typescript.
 
-**Visit [https://github.com/RicardoGaefke/
-ricardogaefke-template](https://github.com/RicardoGaefke/
-ricardogaefke-template) to get started.**
+**Visit [https://github.com/RicardoGaefke/ricardogaefke-template](https://github.com/RicardoGaefke/ricardogaefke-template) to get started.**
 
 ## Getting Started
 
@@ -82,8 +80,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/RicardoGaefke/
-ricardogaefke-template/blob/master/CONTRIBUITING) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/RicardoGaefke/ricardogaefke-template/blob/master/CONTRIBUITING) for details on our code of conduct, and the process for submitting pull requests to us.
 
 <!--
 ## Versioning
@@ -95,11 +92,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Ricardo Gaefke** - *Initial work* - [RicardoGaefke](https://github.com/RicardoGaefke)
 
-See the [Contributors Guide](https://github.com/RicardoGaefke/
-ricardogaefke-template/blob/master/CONTRIBUITING)
+See the [Contributors Guide](https://github.com/RicardoGaefke/ricardogaefke-template/blob/master/CONTRIBUITING)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RicardoGaefke
-ricardogaefke-templated/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RicardoGaefkericardogaefke-templated/blob/master/LICENSE) file for details.
 
